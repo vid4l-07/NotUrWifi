@@ -14,5 +14,5 @@ Estos son los siguientes parámetros disponibles:
 | Forma corta | Forma larga | Explicación |
 | :----------: | :---------: | :-----------: |
 |-h | -\-help| Muestra este mensaje |
-|-p||	Usa aircrack para capturar un handshake y luego crackearlo
-|-a||	Usa hostapd y dnsmasq para crear un punto de acceso con un portal cautivo montado con php
+|-p||	Crakear la contraseña de un wifi a partir de un hadshake
+|-a||	Crea un punto de acceso con un portal cautivo (phising)
