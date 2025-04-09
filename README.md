@@ -1,13 +1,13 @@
-# Not Ur Wifi
+# Aeris
 
 Herramienta especializada en hacking Wifi.
 
 ## Uso
 
 ```bash
-git clone https://github.com/vid4l-07/NotUrWifi.git
-cd noturwifi
-sudo bash noturwifi.sh
+git clone https://github.com/vid4l-07/Aeris.git
+cd aeris
+sudo bash aeris.sh
 ```
 Estos son los siguientes parámetros disponibles:
 
