@@ -2,9 +2,7 @@
 
 Herramienta especializada en hacking Wifi.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vid4l-07/Aeris/main/github/banner.png" alt="banner">
-</p>
+
 
 ## Uso
 
